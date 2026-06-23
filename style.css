@@ -1,0 +1,39 @@
+.tarjeta {
+    width: 300px;
+    padding: 10px 50px;
+    border: 2px solid greenyellow;
+    margin: 30px 30px;
+    text-align: center;
+}
+
+.selection{
+    display: Flex;
+    gap: 15px;
+}
+img {
+    width: 300px;
+    border: 2px solid black;
+}
+h1 {
+    color: red;
+}
+h2 {
+    color: red;
+}
+.tarjeta {
+    width: 300px;
+    padding: 10px 50px;
+    border: 2px solid red;
+    margin: 30px 30px;
+    text-align: center;
+}
+img {
+    width: 300px;
+    border: 2px solid red;
+}
+h1 {
+    color: black;
+}
+h2 {
+    color: black;
+}
